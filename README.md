@@ -9,8 +9,7 @@
 It was created from the merging of PabloMK7's Citra fork and the Lime3DS project, both of which emerged shortly after Citra was taken down.
 
 The goal of this project is to be the de-facto platform for future development.
-
-# Installation
+qffqfq
 
 ### Windows
 
